@@ -43,7 +43,7 @@ var z = '0';
 
 
 function preload(){
-  sidebarleft = loadImage('sidebarleft.png');
+//  sidebarleft = loadImage('sidebarleft.png');
   sidebarRight = loadImage('sidebarright.png');
   topbar = loadImage('topbar5.png');
   staTus = loadImage('status.png');
