@@ -43,7 +43,7 @@ var z = '0';
 
 
 function preload(){
-  sidebarleft = loadImage('sidebarLeft.png');
+  sidebarleft = loadImage('sidebarleft.png');
   sidebarRight = loadImage('sidebarright.png');
   topbar = loadImage('topbar5.png');
   staTus = loadImage('status.png');
@@ -168,7 +168,6 @@ function like4(){
 }
 
 function draw() {
-  setTimeout(alleforloops,1);
   background(234,235,239);
 
   noStroke();
@@ -207,9 +206,6 @@ function draw() {
   }
 }
 
-function alleforloops(){
-
-}
 
 
 function createLike(){
