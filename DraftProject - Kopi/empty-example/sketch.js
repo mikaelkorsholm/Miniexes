@@ -22,7 +22,7 @@ let tekster = ['Spilled coffee all over myself fml', 'Chillin in the sun and fee
 let noti;
 let img;
 var topbar;
-var sidebarLeft;
+var sidebarLeft1;
 var sidebarRight;
 var staTus;
 var ads;
@@ -43,7 +43,7 @@ var z = '0';
 
 
 function preload(){
-  sidebarLeft = loadImage('sidebarLeft.png');
+  sidebarLeft = loadImage('sidebarLeft1.png');
   sidebarRight = loadImage('sidebarright.png');
   topbar = loadImage('topbar5.png');
   staTus = loadImage('status.png');
