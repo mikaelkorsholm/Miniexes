@@ -177,7 +177,7 @@ function draw() {
 
 //Images that make up the layout of the page
   image(topbar, 0,0);
-  image(sidebarLeft, 0, 60, 275, 600);
+  image(sidebarLeft1, 0, 60, 275, 600);
   image(sidebarRight, windowWidth-230, 60, 200, 750);
   image(staTus, width/2-350, 60, 500, 150);
   image(ads, width-480, 59, 250, 750);
