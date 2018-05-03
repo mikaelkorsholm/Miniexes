@@ -22,7 +22,7 @@ let tekster = ['Spilled coffee all over myself fml', 'Chillin in the sun and fee
 let noti;
 let img;
 var topbar;
-var sidebarleft;
+//var sidebarleft;
 var sidebarRight;
 var staTus;
 var ads;
@@ -176,7 +176,7 @@ function draw() {
 
 //Images that make up the layout of the page
   image(topbar, 0,0);
-  image(sidebarleft, 0, 60, 275, 600);
+//  image(sidebarleft, 0, 60, 275, 600);
   image(sidebarRight, windowWidth-230, 60, 200, 750);
   image(staTus, width/2-350, 60, 500, 150);
   image(ads, width-480, 59, 250, 750);
